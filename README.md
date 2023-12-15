@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/aotWWaGrXuNuo/giphy.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
+<img src="https://media.giphy.com/media/aotWWaGrXuNuo/giphy.gif" width="50px" height="50px" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
 </div>
 
 - 👋 Hi, I’m @Configgle8
