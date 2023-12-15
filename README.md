@@ -6,6 +6,7 @@
 </div>
 <div id="textBox" align="center" style="font-size: 16px">
 👋 Hi, I’m @Configgle8
+ Otherwise Known as, Michael Anderson
 </div>
 <!---
 Configgle8/Configgle8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
