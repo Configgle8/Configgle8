@@ -4,10 +4,10 @@
 <div id="badges" align="center">
  <img src="https://komarev.com/ghpvc/?username=Configgle8&style=flat-square&color=blue" alt="">
 </div>
-
-- 👋 Hi, I’m @Configgle8
+<div id="textBox" align="center">
+👋 Hi, I’m @Configgle8
 - 📫 
-
+</div>
 <!---
 Configgle8/Configgle8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
