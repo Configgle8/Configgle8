@@ -8,5 +8,5 @@
 👋 Hi, I’m @Configgle8
  Otherwise Known as, Michael Anderson
 </div>
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=contribs,prs&count_private=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Configgle8&show_icons=true&hide=contribs,prs&count_private=true&theme=radical)
 
