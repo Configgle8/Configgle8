@@ -8,7 +8,5 @@
 👋 Hi, I’m @Configgle8
  Otherwise Known as, Michael Anderson
 </div>
-<!---
-Configgle8/Configgle8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=contribs,prs&count_private=true&theme=radical)
+
