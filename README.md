@@ -6,7 +6,7 @@
 <div id="badges" align="center" style="margin: 20px 0;">
   <a href="https://www.linkedin.com/in/michael-anderson-389a0523a/" target="_blank">🔗 LinkedIn</a> |
   <a href="https://github.com/Configgle8" target="_blank">🐙 GitHub</a> |
-  <a href="https://configgle8.github.io/" target="_blank">🌐 Portfolio</a> |
+  <a href="michaeljanderson.vercel.app" target="_blank">🌐 Portfolio</a> |
   <a href="mailto:michaeljermaine04@outlook.com" target="_blank">✉️ Email</a>
 </div>
 
