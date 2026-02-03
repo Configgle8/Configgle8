@@ -12,11 +12,11 @@
 
 <div align="center" style="font-size: 18px; color: #333; max-width: 600px; margin: 0 auto;">
   <p>
-    I am a senior at the <strong>University of Wisconsin-Milwaukee</strong>, studying 
+    I am an Reporting & Analytics Analyst <strong> Graduate of University of Wisconsin-Milwaukee</strong>, Earned my BBA in
     <strong>Information Technology Management</strong> & <strong>HR Management</strong>! 
   </p>
   <p>
-    This is my portfolio where I will upload projects I am working on and other assignments.
+    This is my portfolio where I will upload personal projects I am working on, and other assignments.
   </p>
 </div>
 
